@@ -1,0 +1,46 @@
+body{
+    color: beige;
+}
+
+.a-color {
+    color:#917FB3 ;
+    text-decoration: underline;
+}
+.baslik {
+    font-size:40px;
+    color:rgb(131, 29, 29);
+    font-family: 'Times New Roman', Times, serif;
+    font-style: italic;
+    text-align: center;
+}
+p{
+    color:#FF7B54;
+    font-size: 20px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+
+}
+li{
+    color:#939B62 ;
+    font-size: 20px;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    
+}
+h1{
+    font-size: 42px;
+    color: #917FB3;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    text-align: center;
+}
+.center{
+   margin: auto;
+   width: 50%;
+   border: 3px solid green;
+   padding: 10px;
+}
+.resize{
+    max-width: 1140px;
+    height: auto;
+    padding: right 2%;;
+  
+}
+
