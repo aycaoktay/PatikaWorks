@@ -1,0 +1,44 @@
+body {
+  display: block;
+  margin: 8px;
+}
+form {
+  display: block;
+  margin-top: 0em;
+  margin-block-end: 1em;
+}
+
+.center {
+  display: block;
+  text-align: -webkit-center;
+}
+img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 100px;
+  width: 40%;
+}
+.box {
+  position: relative;
+  text-align: center;
+}
+.box input {
+  border-radius: 20px;
+  width: 400px;
+}
+.container {
+  display: flex;
+  text-align: center;
+  margin-left: 250px;
+}
+.container2 {
+  width: 250px;
+  border: 5px solid aquamarine;
+  margin: 10px;
+  background-color: aquamarine;
+}
+button {
+  margin-top: 5px;
+  padding: 5px;
+}
