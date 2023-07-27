@@ -1,0 +1,26 @@
+.box{
+    width: 30500px;
+    height: 255px;
+    text-align: center;
+}
+.text1{
+    text-align: center;
+    list-style-position: inside;
+}
+.inputbox{
+    width: 500px;
+    height: 40px;
+}
+.button{
+    width: 100px;
+    height: 40px;
+}
+ul li{
+    cursor: pointer;
+    position: center;
+    padding: 40px;
+    background: #eee;
+    font-size: 18px;
+    transition: 0.2s;
+    list-style-type: none;
+}
