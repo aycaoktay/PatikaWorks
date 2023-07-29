@@ -5,15 +5,14 @@ body{
     margin: 0;
     padding: 0;
     background-color: bisque;
-    font-family: 'PT Serif', serif;
+    font-family: 'Edu SA Beginner', cursive;
 
 }
 h2{
     font-family: 'Caveat', cursive;
-    font-family: 'PT Serif', serif;
-    font-size: 3rem;
+    font-size: 5rem;
     text-align: center;
-    color: rgb(9, 37, 15);
+    color: #f19066;
 }
 .menu{
     margin-top: 20px;
@@ -28,16 +27,21 @@ h2{
     margin-left: 15px;
 }
 .photo{
-    width: 30%;
-    height: 175px;
+    width: 35%;
+    height: 200px;
     object-fit: cover;
     border: 0.15rem solid burlywood;
 }
 .menu-items{
-    display: flex;
+    display:inline;
     justify-content: space-between;
     border-bottom: 1px solid burlywood;
 }
+.dobby{
+    display: block;
+    margin: 0 auto
+    
 
+}
 
 
